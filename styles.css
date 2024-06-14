@@ -1,0 +1,48 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #f2b830;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 10px 0 #1a2028;
+  font-size: 8rem;
+  color: #28c08d;
+}
+
+p {
+ text-align: center;
+  font-size: 3rem;
+  color: #ea1c34;
+  font-family: 'lobster',cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  font-size: large;
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: ballu bhai",cursive;
+
+}
+span{
+
+  font-size: 2rem;
+  color:  blue;
+}
